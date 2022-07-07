@@ -16,7 +16,8 @@
   <a href="https://git-scm.com" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </a>
 </div>
 
-## - 📖 Tecnologías Que Estou Aprendendo 
+## - 📖 Tecnologías Que Estou Aprendendo
+
 <div align="center">
   <a href="https://www.rust-lang.org" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> </a>
   <a href="https://flutter.dev" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> </a>
