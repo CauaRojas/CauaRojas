@@ -1,8 +1,8 @@
 ## - 📊 Meus Status do Github:
 <div align="center">
-  <a href="https://github.com/CauaRojas"></a>
+  <a href="https://github.com/CauaRojas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaRojas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRojas&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaRojas&layout=compact&langs_count=7&theme=github_dark"/></a>
 </div>
 ## - 🖥 Tecnologías Confortáveis
 <div align="center">
