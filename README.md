@@ -25,9 +25,9 @@
 ## - 📖 Tecnologias Que Estou Aprendendo
 
 <div align="center">
-    <a href="https://www.mongodb.com" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> </a>
+    <a href="https://flutter.dev" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </a>
-  <a href="https://flutter.dev" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </a>
+  <a href="https://www.mongodb.com" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </a>
 
 </div>
 
